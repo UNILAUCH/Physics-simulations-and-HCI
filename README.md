@@ -14,7 +14,7 @@ To make it easy for you to get started, here's the list of recommended steps.
 
 ### Download files
 
-Download Segway.zip in elearning
+Download Segway.zip
 
 
 ### Unzip Segway.zip
@@ -34,6 +34,9 @@ MUJOCO
 
 Blender is required if the .stl files of the models need to be changed.
 
+## Visuals
+PID.mp4 and DeepQlearning.mp4 show the final result
+Segway_PID.mp4 is our promo
 
 ### Executing program
 In order to view and edit the models in modelPark.xml, the following steps should be performed:
