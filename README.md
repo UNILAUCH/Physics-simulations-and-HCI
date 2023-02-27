@@ -35,7 +35,7 @@ MUJOCO
 Blender is required if the .stl files of the models need to be changed.
 
 ## Visuals
-PID.mp4 and DeepQlearning.mp4 show the final result
+PID.mp4 and (DQL1.mp4, DQL2.mp4) show the final result
 Segway_PID.mp4 is our promo
 
 ### Executing program
